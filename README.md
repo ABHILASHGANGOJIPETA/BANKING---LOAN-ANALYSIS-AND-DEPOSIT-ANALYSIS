@@ -37,19 +37,6 @@ These tables are connected using **primary keys** and **foreign keys**.
 - Risk analysis for better lending decisions.
 - Summary reports for management insights.
 
-## 📷 Dashboard Preview
-### Home Page  
-![Home Page](HOME%20PAGE.png)
-
-### Loan Analysis  
-![Loan Analysis](LOAN%20ANALYSIS%20PAGE.png)
-
-### Deposit Analysis  
-![Deposit Analysis](DEPOSIT%20ANALYSIS%20PAGE.png)
-
-### Summary Page  
-![Summary](SUMMARY%20PAGE.png)
-
 ---
 
 ## 📌 Tools & Technologies
