@@ -63,5 +63,3 @@ These tables are connected using **primary keys** and **foreign keys**.
 
 ## 👨‍💻 Author
 **Abhilash Gangojipeta**  
-📧 [imabhi.1753@gmail.com]  
-🔗 [https://www.linkedin.com/in/abhilashgangojipeta/]  
