@@ -39,6 +39,19 @@ These tables are connected using **primary keys** and **foreign keys**.
 
 ---
 
+## 📷 Dashboard Preview
+### Home Page  
+![Home Page](HOME%20PAGE.png)
+
+### Loan Analysis  
+![Loan Analysis](LOAN%20ANALYSIS%20PAGE.png)
+
+### Deposit Analysis  
+![Deposit Analysis](DEPOSIT%20ANALYSIS%20PAGE.png)
+
+### Summary Page  
+![Summary](SUMMARY%20PAGE.png)
+
 ## 📌 Tools & Technologies
 - **Power BI** (for dashboard creation and analysis)  
 - **Excel** (for dataset preparation)  
